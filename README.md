@@ -19,10 +19,7 @@
 
 <p>In this challenge, you must create an application to continue training what you have learned so far in Node.js with TypeScript, using the concept of models, repositories and services!</p>
 
-
-
-<p align="center">
-    
+<p align="center">    
   <img alt="Login-Page" title="Login-Page" src="src/assets/result.png" width="600px" />
   <img alt="Login-Page" title="Login-Page" src="src/assets/des.png" width="600px" />
  </p>
