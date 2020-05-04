@@ -41,7 +41,7 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/des-bd-upload-nodejs.git
+$ git clone https://github.com/ApoOliveira18/desafio-fundamentos-nodejs.git
 # Go into the repository
 $ cd des-bd-upload-nodejs/
 
