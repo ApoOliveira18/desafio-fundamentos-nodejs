@@ -43,7 +43,7 @@ From your command line:
 # Clone this repository
 $ git clone https://github.com/ApoOliveira18/desafio-fundamentos-nodejs.git
 # Go into the repository
-$ cd des-bd-upload-nodejs/
+$ cd desafio-fundamentos-nodejs/
 
 # Install dependencies for directories
 
