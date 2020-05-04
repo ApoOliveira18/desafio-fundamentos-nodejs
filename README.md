@@ -19,16 +19,10 @@
 
 <p>In this challenge, you must continue to develop the transaction management application, training what you have learned so far in Node.js with TypeScript, but this time including using a database with TypeORM and sending files with Multer!</p>
 
-<p align="center">
-    <img alt="Login-Page" title="Login-Page" src="src/assets/dbeaver.png" width="600px" />
-</p>
+
 
 <p align="center">
-    <img alt="Login-Page" title="Login-Page" src="src/assets/inso.png" width="600px" />
- </p>
-
-<p align="center">
-    <img alt="Login-Page" title="Login-Page" src="src/assets/print7Testes.png" width="320px" />
+    <img alt="Login-Page" title="Login-Page" src="src/assets/des.png" width="320px" />
   <img alt="Login-Page" title="Login-Page" src="src/assets/result.png" width="295px" />
  </p>
 
